@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\bin\Debug\net10.0\Calculadora-do-VT.exe
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\bin\Debug\net10.0\Calculadora-do-VT.deps.json
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\bin\Debug\net10.0\Calculadora-do-VT.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\bin\Debug\net10.0\Calculadora-do-VT.dll
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\bin\Debug\net10.0\Calculadora-do-VT.pdb
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\Calculadora-do-VT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\Calculadora-do-VT.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\Calculadora-do-VT.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\Calculadora-do-VT.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\Calculadora-do-VT.dll
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\refint\Calculadora-do-VT.dll
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\Calculadora-do-VT.pdb
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\Calculadora-do-VT.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\Projetos Pessoais\Calculadora-do-VT\Calculadora-do-VT\obj\Debug\net10.0\ref\Calculadora-do-VT.dll

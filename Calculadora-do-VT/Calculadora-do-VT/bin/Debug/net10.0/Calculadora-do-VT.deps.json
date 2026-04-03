@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Calculadora-do-VT/1.0.0": {
+        "runtime": {
+          "Calculadora-do-VT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora-do-VT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
