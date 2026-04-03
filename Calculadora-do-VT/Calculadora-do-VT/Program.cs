@@ -1,4 +1,4 @@
-﻿using System.ComponentModel;
+using System.ComponentModel;
 using System.Runtime.Serialization;
 //calculado do Viquitor(projeto pessoal de calculadora)
 Console.WriteLine("======================================");
@@ -172,8 +172,6 @@ while (true)
             if (resposta == "n")
             {
                 Console.WriteLine("Obrigado por usar a Calculadora do VT! Até a próxima!");
-                Console.WriteLine("Pressione qualquer tecla para sair...");
-                Console.ReadKey();
                 return;
             }
             Console.WriteLine("\n\n\n");
@@ -181,5 +179,6 @@ while (true)
         }
         Console.WriteLine("Digite 's' para sim ou 'n' para não:");
     }
-
+    Console.WriteLine("Pressione qualquer tecla para sair...");
+    Console.ReadKey();
 }
