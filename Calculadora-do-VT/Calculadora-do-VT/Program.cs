@@ -172,6 +172,8 @@ while (true)
             if (resposta == "n")
             {
                 Console.WriteLine("Obrigado por usar a Calculadora do VT! Até a próxima!");
+                Console.WriteLine("Pressione qualquer tecla para sair...");
+                Console.ReadKey();
                 return;
             }
             Console.WriteLine("\n\n\n");
